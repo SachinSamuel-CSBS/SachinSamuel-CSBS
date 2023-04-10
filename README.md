@@ -2,7 +2,7 @@
 🔭 I’m currently pursuing college 2nd year<br>
 👯 I’m looking to collaborate on full stack web development<br>
 🤝 I’m looking for help with developing a E-commerce website for visually impaired<br>
-🌱 I’m currently learning React JS<br>
+🌱 I’m currently learning JavaScript<br>
 💬 Ask me about Frontend Development<br>
 ⚡ Fun fact - I am lazy but smart
 
